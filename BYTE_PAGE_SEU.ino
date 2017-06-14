@@ -17,6 +17,8 @@
    '10101010' also known as the checkerboard pattern. In decimal format this would be: '170'. The checker-
    board pattern was chosen to allow a better probability of 1->0 and 0->1 bit-flip, and sub-sequently, 
    error rate.
+   
+   The number of SRAMs used can be increased as needed.
 */
 
 #include <SPI.h>
